@@ -12,7 +12,7 @@ package com.mycompany.maven;
 public class Webhook {
     
     public static void main(String[] args) {
-        System.out.println("Webhook");
+        System.out.println("Webhook2");
     }
     
 }
