@@ -11,7 +11,7 @@ package com.mycompany.maven;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Test Test");
+        System.out.println("Test___Test")
     }
     
 }
